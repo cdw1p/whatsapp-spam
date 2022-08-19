@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-spam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/whatsapp-spam.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/whatsapp-spam/issues"
+  },
+  "homepage": "https://github.com/cdw1p/whatsapp-spam#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
